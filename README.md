@@ -104,7 +104,7 @@ Currently using **rule-based** detection. You can later:
 
 ## 👨‍💻 Author
 
-Made with ❤️ by **Mayank Sharma**
+Made with  by **Mayank Sharma**
 
 📌 Feel free to fork, star ⭐, and contribute!
 
